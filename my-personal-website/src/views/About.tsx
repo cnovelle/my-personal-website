@@ -1,7 +1,9 @@
-import React from "react";
+//Library Imports
+import { Col } from "react-bootstrap";
 import { Container } from "react-bootstrap";
 import { Row } from "react-bootstrap";
-import { Col } from "react-bootstrap";
+
+//App Imports
 import MyImage from "./code-img.png";
 
 export default function About() {

@@ -38,6 +38,6 @@
 }
 
 #background-dark {
-  background-image: linear-gradient(160deg, #000000, #515251);
+  background-image: linear-gradient(0deg, #515251, #000000);
   color: white;
 }
