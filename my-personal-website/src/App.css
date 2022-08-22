@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+#background-dark {
+  background-image: linear-gradient(160deg, #000000, #515251);
+  color: white;
+}
